@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[michaellavelle]]></title>
-        <description><![CDATA[michaellavelle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Michael Lavelle]]></title>
+        <description><![CDATA[Michael Lavelle]]></description>
+        <link>https://thegrid.ai/michaellavelle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 18:03:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Aug 2016 18:06:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michaellavelle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[See the simulated world where Google DeepMind is trying to create software that can learn anything]]></title>
+            <description><![CDATA[<article><h1>See the simulated world where Google DeepMind is trying to create software that can learn anything</h1><p>Padded walls, gloomy lighting, and a ceiling with floral wallpaper. It doesn't look like a place to make groundbreaking discoveries that change the trajectory of society. But in these simulated, claustrophobic corridors, Demis Hassabis thinks he can lay the foundations for software that's smart enough to solve humanity's biggest problems. "Our goal's very big," says Hassabis, whose level-headed manner can mask the audacity of his ideas.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/07e094c1f2874dc30ddcb0cc9ae481b0/noop.jpg?input=http%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Fdeepmindx2360.jpg%3Fcx%3D142%26cy%3D116%26cw%3D1913%26ch%3D1076%26sw%3D1200"></article>]]></description>
+            <link>https://www.technologyreview.com/s/601139/how-google-plans-to-solve-artificial-intelligence/</link>
+            <guid isPermaLink="false">24250787-56e9-431a-bcfb-5dba9b1cad18</guid>
+            <pubDate>Tue, 09 Aug 2016 18:06:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A guy trained a machine to "watch" Blade Runner. Then things got seriously sci-fi.]]></title>
             <description><![CDATA[<article><h1>A guy trained a machine to "watch" Blade Runner. Then things got seriously sci-fi.</h1><p>Last week, Warner Bros. issued a DMCA takedown notice to the video streaming website Vimeo. The notice concerned a pretty standard list of illegally uploaded files from media properties Warner owns the copyright to - including episodes of Friends and Pretty Little Liars, as well as two uploads featuring footage from the Ridley Scott movie Blade Runner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51c1873c8b84f2931286b1125c8627e9fbec4dd5.png"></article>]]></description>
