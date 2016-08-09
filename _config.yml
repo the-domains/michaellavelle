@@ -11,6 +11,9 @@ color:
     - '#4D4D4D'
     - '#333333'
 layout_spectrum: 0.5625526662915945
+author:
+  name: Michael Lavelle
+  email: michael@lavelle.name
 name: Michael Lavelle
 title: Michael Lavelle
 description: Machine Learning Software Engineer
